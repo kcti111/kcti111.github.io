@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
-baseURL = "http://example.org/"
+baseURL = "https://kcti111.github.io/"
 languageCode = "en-us"
-title = "Nomod"
+title = "문화기술 이슈 매거진"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 
 
