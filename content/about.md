@@ -1,6 +1,6 @@
 ---
 title: About Us
-description: We believe that great ideas are born from collaboration, and we are dedicated to fostering a culture of openness and creativity. Every member of our team brings a unique perspective, and together, we are constantly learning, growing, and evolving.
+description: 한국문화기술연구소는문화산업진흥기본법 제17조의5(문화 기술 연구주관기관의 지정 등)에 따라 과학기술, 디자인, 문화예술, 인문사회 등 다양한학문분야들 간의 교류와 융합에 기반을 둔 문화산업 복합기술에 관한 연구·개발을수행하기 위하여 2013년 4월 1일 설립되었습니다.
 image: 'https://placehold.co/1200x800'
 image_caption: The beginning of a new wonderful day
 ---
