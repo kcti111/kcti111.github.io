@@ -42,7 +42,7 @@ Budget travel is all about finding value in every experience. By focusing on wha
 
 The first step is setting clear boundaries. This means establishing specific times for work and personal life and sticking to them. Whether it’s turning off work notifications after a certain hour or designating a workspace that’s separate from your living area, creating physical and mental boundaries helps you disconnect from work.
 
-![Woman](https://placehold.co/1200x800)
+![Woman](https://github.com/kcti111/kcti111.github.io/blob/main/content/images/test11.jpg)
 *Enjoy every moment*
 
 Ultimately, work-life balance is about finding harmony between your responsibilities and your passions. When you create time for yourself, you’re not just recharging; you’re investing in your long-term happiness and success. By cultivating this balance, you’ll find that you’re not only more productive but also more content in both your professional and personal life.
