@@ -22,7 +22,7 @@ When it comes to food, skip the tourist traps and eat where the locals do. Stree
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://placehold.co/1200x800" loading="lazy">
+    <img src="https://github.com/kcti111/kcti111.github.io/blob/main/content/images/test11.jpg" loading="lazy">
     <img src="https://placehold.co/1200x800" loading="lazy">
     <img src="https://placehold.co/1200x800" loading="lazy">
     <img src="https://placehold.co/1200x800" loading="lazy">
