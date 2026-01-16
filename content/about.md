@@ -5,7 +5,16 @@ image: 'https://placehold.co/1200x800'
 image_caption: The beginning of a new wonderful day
 ---
 
-At the heart of our journey lies a deep commitment to innovation, creativity, and community. We are a collective of designers, thinkers, and storytellers who believe in the power of ideas to shape the future. Our mission is to create a space where imagination meets reality, where technology and design come together to craft experiences that inspire and connect. We approach every project with curiosity and passion, striving to push boundaries and challenge the status quo.
+2025년은 ai와 로봇 기술의 발전으로 사회, 경제, 문화 전반에 걸쳐 큰 변화를 맞이하고 있습니다.
+특히, 문화체육관광부는 "문화한국 2035"라는 정책 비전을 제시하여 인공지능(ai) 기반의 문화, 체육, 관광 혁신을 포함한 여섯 가지 핵심 방향을 설정했습니다. 이 비전의 궁극적인 목표는 대한민국이 세계적인 문화 강국으로 도약하고 국민의 삶의 질을 향상시키는 것입니다.
+
+한국문화기술연구소는 문화기술 연구의 주관 기관으로서, 인공지능 기반의 새로운 문화 향유 방식과 문화기술 서비스, 사업 창출을 위해 지속적으로 노력하고 있습니다. 인공지능 기반 시각화 기술을 활용하여 스마트 미디어월 콘텐츠를 전시관에 실증하였고, 데이터 기반의 미디어 아트 프로젝트를 대중에게 선보였습니다. 또한, 청각장애인을 포함한 소통 약자를 위한 전시 해설 수어 변환 기술과 시각 장애인을 위한 전시 관람 로봇 기술을 개발하여 장애인들이 문화 예술을 경험할 수 있는 기회를 제공하고 있습니다. 더불어, 문화유산의 3d 데이터를 활용한 실감 콘텐츠를 개발하여 문화적 가치와 활용도를 높이는 데 기여하고 있습니다.
+
+현재 인공지능을 통한 신기술 융합이 가속화되고 있는 상황에서, 한국문화기술연구소는 문화기술 관련 정보를 확산하여 전문성을 강화하고 브랜드 이미지를 높이기 위해 올해 5월부터 이슈브리프를 발행하기 시작했습니다. 연구소의 역량을 강화하기 위해 전문가 포럼, 세미나, 데이터 창작 워크숍 등을 지속적으로 운영하고 있으며, 박물관과 전시관 등 유관 기관과 협력하여 연구개발 성과를 보급하고 확산하는 데 힘쓰고 있습니다.
+
+한국문화기술연구소는 인공지능 기반의 문화체육관광 혁신을 이끌며, 콘텐츠 산업 성장을 위한 산학연 협력의 장을 마련하는 역할을 맡고 있습니다. 또한, 인공지능과 융합된 문화기술의 발전과 저변 확대를 통해 문화 및 기술 강국으로 나아가는 목표를 달성하기 위해 최선을 다할 것입니다.
+
+한국문화기술연구소와 함께하는 유관 기관 관계자분들과 내외부 연구진의 지속적인 격려와 관심을 부탁드립니다.
 
 > The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
 
