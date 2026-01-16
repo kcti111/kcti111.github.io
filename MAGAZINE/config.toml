@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
-baseURL = "https://kcti111.github.io/"
+baseURL = "https://kcti111.github.io/MAGAZINE"
 languageCode = "en-us"
-title = "Nomod"
+title = "KCTI ISSUE"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 
 
