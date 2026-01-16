@@ -4,7 +4,7 @@ description: Travel doesn’t have to be expensive to be enjoyable. This article
 date: 2024-08-18 15:01:35 +0300
 authors: [carla]
 image: 'https://placehold.co/1200x800'
-video_embed: [https://www.youtube.com/watch?v=Nr2XeabFyNg]
+video_embed: https://www.youtube.com/watch?v=Nr2XeabFyNg
 tags: [Lifestyle]
 featured: true
 toc: true
