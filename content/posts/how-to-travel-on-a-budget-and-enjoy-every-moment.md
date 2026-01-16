@@ -3,8 +3,8 @@ title: 우리의 문화기술은 어디쯤 있는가
 description: Travel doesn’t have to be expensive to be enjoyable. This article provides tips on how to make the most of your trips without breaking the bank, ensuring that you can explore the world and create unforgettable memories on a budget.
 date: 2024-08-18 15:01:35 +0300
 authors: [carla]
-image: 'https://github.com/kcti111/kcti111.github.io/blob/main/content/images/test_1.png'
-video_embed: https://www.youtube.com/watch?v=Nr2XeabFyNg
+image: 'https://github.com/kcti111/kcti111.github.io/blob/main/content/images/test11.jpg'
+video_embed: https://youtu.be/Nr2XeabFyNg
 tags: [Lifestyle]
 featured: true
 toc: true
