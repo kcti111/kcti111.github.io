@@ -4,6 +4,7 @@ baseURL = "https://kcti111.github.io/"
 languageCode = "en-us"
 title = "Nomod"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
+theme = "nomod"
 
 
 #-------------------------------
