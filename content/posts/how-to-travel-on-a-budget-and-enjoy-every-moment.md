@@ -1,10 +1,10 @@
 ---
-title: How to Travel on a Budget and Enjoy Every Moment
+title: 우리의 문화기술은 어디쯤 있는가
 description: Travel doesn’t have to be expensive to be enjoyable. This article provides tips on how to make the most of your trips without breaking the bank, ensuring that you can explore the world and create unforgettable memories on a budget.
 date: 2024-08-18 15:01:35 +0300
 authors: [carla]
 image: 'https://placehold.co/1200x800'
-video_embed: https://www.youtube.com/embed/NpEaa2P7qZI
+video_embed: [https://www.youtube.com/embed/NpEaa2P7qZI](https://youtu.be/Nr2XeabFyNg?si=EoPyPiJt3bXMS5ZD)
 tags: [Lifestyle]
 featured: true
 toc: true
