@@ -1,5 +1,6 @@
 ---
 name: Ju yongmin
+slug: "yongmin"
 image: '/images/yongmin.png'
 location: korea 
 website:
@@ -13,3 +14,4 @@ tiktok:
 ---
 
 I offer English editing and language facilitation services to improve the fluency and impact of written English.
+
