@@ -220,7 +220,7 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 [taxonomies]
   author = "authors"
   tag = "tags"
-
+  category = "categories"
 
 [markup]
   [markup.goldmark]
