@@ -11,7 +11,7 @@
               <h3 class="subscribe__title">{{ .Site.Params.mailchimp.mailchimp_title }}</h3>
             {{ end }}
             {{ if .Site.Params.mailchimp.mailchimp_description }}
-              <p class="subscribe__description">{{ .Site.Params.mailchimp.mailchimp_description }}</p>
+              <p class="subscribe__description">{{ .Site.Params.mailchimp.mailchimp_description | safeHTML }}</p>
             {{ end }}
           </div>
 
