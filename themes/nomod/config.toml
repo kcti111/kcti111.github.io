@@ -115,15 +115,19 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 # About Section Settings
 [params.about]
   enable = true
-  about_title = "안녕하세요! 한국문화기술연구소 김소진입니다.!"
+  about_title = """
+  안녕하세요! 
+  
+  한국문화기술연구소 김소진입니다.
+  """
   about_subtitle = "여러분과 함께 문화기술을 알아가는 매거진이 되겠습니다."
   about_description = """
   Giana Franci’s mission is rooted in the belief that creativity is a catalyst for connection and change. Through her blog, she seeks to bridge the gap between design, technology, and lifestyle, offering a space where ideas can flourish and innovation can thrive.
 
   It’s a journey through the thoughts and experiences that shape her world. Giana’s work is driven by a desire to challenge the ordinary and to push the boundaries of what’s possible. She sees every project as an opportunity to learn, grow, and inspire others to do the same. This blog is more than just a collection of posts.
   """
-  about_image = "https://placehold.co/1200x800"
-  about_image_alt = "Giana Franci"
+  about_image = "/images/sojin.jpg"
+  about_image_alt = "Kim, Sojin"
   about_button_text = "Meet our team"
   about_button_link = "/about/"
 
@@ -141,11 +145,14 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
   enable = true
   mailchimp_title = """
   문화기술의 흐름과 의미를 정리한
+  
   월간 이슈 매거진을 이메일로 받아보세요!
   """
   mailchimp_description = """
   빠르게 소비되는 기술 뉴스가 아닌, 
+  
   문화로 전환되는 기술의 맥락과 사례를 차분히 기록하고 해석한 콘텐츠를 매주 한 편씩 전합니다. 
+  
   문화기술의 현재를 함께 읽고 축적하고 싶은 분들을 위한 구독입니다.
   """
   mailchimp_identifier = "gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp" # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
