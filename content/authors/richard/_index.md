@@ -1,6 +1,6 @@
 ---
 name: Richard Miller
-image: 'https://placehold.co/400x400'
+image: 'https://nomod-hugo.netlify.app/images/102.jpg'
 location: Houston
 website:
 facebook: https://www.facebook.com
