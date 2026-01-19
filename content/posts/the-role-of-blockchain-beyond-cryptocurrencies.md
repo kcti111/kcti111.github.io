@@ -2,7 +2,7 @@
 title: The Role of Blockchain Beyond Cryptocurrencies
 description: Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis convallis tristique.
 date: 2024-09-05 15:01:35 +0300
-authors: [admin]
+authors: [yongmin]
 image: 'https://placehold.co/1200x800'
 tags: [Technology]
 toc: true
