@@ -5,7 +5,7 @@ date: 2024-08-18 15:01:35 +0300
 authors: [sojin]
 image: 'https://github.com/kcti111/kcti111.github.io/blob/main/content/images/test11.jpg'
 video_embed: https://youtu.be/Nr2XeabFyNg
-tags: [Lifestyle] [Design]
+tags: [Lifestyle]
 featured: true
 toc: true
 ---
