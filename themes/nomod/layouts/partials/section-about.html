@@ -14,7 +14,7 @@
 
           <div class="about__content">
             {{ if .Site.Params.about.about_title }}
-              <h2 class="about__title">{{ .Site.Params.about.about_title }}</h2>
+              <h2 class="about__title">{{ .Site.Params.about.about_title | markdownify }}</h2>
             {{ end }}
             {{ if .Site.Params.about.about_subtitle }}
               <p class="about__subtitle">{{ .Site.Params.about.about_subtitle }}</p>
