@@ -74,12 +74,12 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 [params.cta_button]
   enable = true
   cta_button_link = "/contact/"
-  cta_button_text = "Get in touch"
+  cta_button_text = "연결하기"
 
 
 [params]
-  logo = "" # You can add own logo. For example "/images/logo.png".
-  logo_dark = ""
+  logo = "/images/logo_CT.png" # You can add own logo. For example "/images/logo.png".
+  logo_dark = "/images/logo_CT.png"
   description = "Nomod is a multipurpose Hugo blog theme"
   color_scheme = "auto" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
