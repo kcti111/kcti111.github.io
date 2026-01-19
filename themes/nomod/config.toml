@@ -78,8 +78,8 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 
 
 [params]
-  logo = "/images/logo_CT.png" # You can add own logo. For example "/images/logo.png".
-  logo_dark = "/images/logo_CT.png"
+  logo = "/images/logo_CT_text.png" # You can add own logo. For example "/images/logo.png".
+  logo_dark = "/images/logo_CT_text.png"
   description = "Nomod is a multipurpose Hugo blog theme"
   color_scheme = "auto" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
