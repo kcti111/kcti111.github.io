@@ -2,7 +2,7 @@
 title: Unlocking Unprecedented Computational Power
 description: Unlike classical computers, which use bits to process information, quantum computers use quantum bits, or qubits, which can represent both 0 and 1 simultaneously.
 date: 2024-08-15 15:01:35 +0300
-authors: [admin]
+authors: [yongmin]
 image: 'https://placehold.co/1200x800'
 image_caption:
 tags: [Technology]
