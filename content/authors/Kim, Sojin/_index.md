@@ -1,8 +1,8 @@
 ---
-name: Giana Franci
+name: Kim, Sojin
 image: 'https://placehold.co/400x400'
-location: London
-website:
+location: KOREA
+website: 
 facebook: https://www.facebook.com
 twitter: https://twitter.com
 instagram: https://www.instagram.com
@@ -11,4 +11,5 @@ mastodon:
 youtube:
 tiktok:
 ---
+
 We live our lives through stories. I enjoy listening to a good story, and I take pride in crafting someone else’s.
