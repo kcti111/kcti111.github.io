@@ -1,7 +1,7 @@
 ---
 title: About Us
 description: We believe that great ideas are born from collaboration, and we are dedicated to fostering a culture of openness and creativity. Every member of our team brings a unique perspective, and together, we are constantly learning, growing, and evolving.
-image: 'https://placehold.co/1200x800'
+image: 'https://nomod-hugo.netlify.app/images/17.jpg'
 image_caption: The beginning of a new wonderful day
 ---
 
