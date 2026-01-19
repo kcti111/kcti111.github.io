@@ -89,8 +89,8 @@ theme = "nomod"
 # Hero Settings
 [params.hero]
   enable = true
-  hero__title = "Stories, Journeys, and Ideas for the Creatively Curious"
-  hero__description = "Join us on a journey where every post brings a fresh perspective. This blog is for those who are driven by curiosity and a desire to learn."
+  hero__title = "문화기술을 둘러싼 생각의 기록"
+  hero__description = "기술이 단순한 도구를 넘어 문화로 인식되고, 사람들의 일상과 감각 속에 스며드는 순간들을 기록하고 해석하는 문화기술 이슈 매거진."
 
 [params.hero_authors]
   enable = true
