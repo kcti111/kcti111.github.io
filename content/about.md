@@ -1,7 +1,7 @@
 ---
 title: About Us
 description: 한국문화기술연구소는 문화산업진흥기본법 제17조의5에 따라 과학기술, 디자인, 문화예술, 인문사회 등 다양한학문분야들 간의 교류와 융합에 기반을 둔 문화산업 복합기술에 관한 연구·개발을수행합니다.
-image: 'https://placehold.co/1200x800'
+image: 'https://nomod-hugo.netlify.app/images/17.jpg'
 image_caption: The beginning of a new wonderful day
 ---
 
