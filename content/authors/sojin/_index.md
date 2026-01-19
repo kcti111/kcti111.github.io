@@ -1,6 +1,6 @@
 ---
 name: Kim Sojin
-image: '(https://github.com/kcti111/kcti111.github.io/content/authors/sojin/sojin.jpg?raw=true)'
+image: '([https://github.com/kcti111/kcti111.github.io/content/authors/sojin/sojin.jpg?raw=true](https://github.com/kcti111/kcti111.github.io/blob/main/content/authors/sojin/sojin.jpg?raw=true))'
 location: Korea
 website:
 facebook: https://www.facebook.com
@@ -13,6 +13,7 @@ tiktok:
 ---
 
 안녕하세요. 저는 한국문화기술연구소 김소진입니다. 융합디자인학 박사로서 문화기술 이슈 매거진의 편집장을 담당하고 있습니다.
+
 
 
 
