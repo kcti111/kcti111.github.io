@@ -2,7 +2,7 @@
 title: How Disconnecting from Technology Can Restore Balance
 description: A digital detox involves intentionally stepping away from screens to restore balance and mental clarity. By reducing screen time, we can improve our sleep quality, lower stress levels, and reconnect with the world around us.
 date: 2024-09-04 15:01:35 +0300
-authors: [daniel]
+authors: [sojin]
 image: 'https://placehold.co/1200x800'
 tags: [Lifestyle]
 toc: true
