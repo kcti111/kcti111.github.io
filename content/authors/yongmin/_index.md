@@ -1,7 +1,7 @@
 ---
-name: Richard Miller
-image: 'https://placehold.co/400x400'
-location: Houston
+name: Ju yongmin
+image: '/images/yongmin.png'
+location: korea 
 website:
 facebook: https://www.facebook.com
 twitter: https://twitter.com
@@ -11,4 +11,5 @@ mastodon:
 youtube:
 tiktok:
 ---
+
 I offer English editing and language facilitation services to improve the fluency and impact of written English.
