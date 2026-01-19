@@ -1,7 +1,7 @@
 ---
-name: Giana Franci
-image: 'https://placehold.co/400x400'
-location: London
+name: Kim Sojin
+image: 'https://github.com/kcti111/kcti111.github.io/blob/main/content/authors/Sojin/sojin.jpg'
+location: Korea
 website:
 facebook: https://www.facebook.com
 twitter: https://twitter.com
@@ -11,4 +11,5 @@ mastodon:
 youtube:
 tiktok:
 ---
-We live our lives through stories. I enjoy listening to a good story, and I take pride in crafting someone else’s.
+
+안녕하세요. 저는 한국문화기술연구소 김소진입니다. 융합디자인학 박사로서 문화기술 이슈 매거진의 편집장을 담당하고 있습니다.
