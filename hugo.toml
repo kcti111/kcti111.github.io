@@ -1,4 +1,4 @@
-baseURL = 'https://kcti111.github.io/magazine/'
+baseURL = 'https://kcti111.github.io/'
 languageCode = "ko-kr"
 title = '문화기술 이슈 매거진'
 theme = "nomod"
