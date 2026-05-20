@@ -1,9 +1,7 @@
 baseURL = 'https://kcti111.github.io/magazine/'
-languageCode = 'en-us'
+languageCode = "ko-kr"
 title = '문화기술 이슈 매거진'
 theme = "nomod"
-languageCode = "ko-kr"
-baseURL = "https://kcti111.github.io/magazine/"
 enableRobotsTXT = true
 canonifyURLs = true
 
