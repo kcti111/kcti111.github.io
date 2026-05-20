@@ -4,8 +4,26 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="{{ "favicon.ico" | relURL }}">
 
-  <title>{{ if not .IsHome }}{{ .Title }}{{ .Params.name }} | {{ end }}{{ .Site.Title }}</title>
-  <meta name="description" content="{{if .IsHome}}{{ .Site.Params.description }}{{else}}{{ .Description }}{{end}}">
+  <title>
+{{ if .IsHome }}
+문화기술 이슈 매거진 | 한국문화기술연구소
+{{ else }}
+{{ .Title }} | 문화기술 이슈 매거진
+{{ end }}
+</title>
+  <meta name="description"
+content="
+{{ if .IsHome }}
+AI, HCI, 미디어파사드, CT, 메타버스, AX, 디지털휴먼, AR, XR, 인터랙티브아트, 문화기술 산업 정책, 문화기술 저작 등
+최신 문화기술 트렌드와 연구 흐름을 분석하는 전문 매거진.
+{{ else }}
+{{ with .Description }}
+{{ . }}
+{{ else }}
+문화기술 이슈와 연구 동향을 분석하는 전문 매거진 콘텐츠.
+{{ end }}
+{{ end }}
+">
 
   {{ with .OutputFormats.Get "rss" -}}
   {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
