@@ -1,1 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Explore CT Topics on 문화기술 이슈 매거진</title><link>https://kcti111.github.io/tags/</link><description>Recent content in Explore CT Topics on 문화기술 이슈 매거진</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Fri, 24 Oct 2025 17:00:55 +0300</lastBuildDate><atom:link href="https://kcti111.github.io/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Ai</title><link>https://kcti111.github.io/tags/ai/</link><pubDate>Fri, 24 Oct 2025 17:00:55 +0300</pubDate><guid>https://kcti111.github.io/tags/ai/</guid><description/></item><item><title>Technology</title><link>https://kcti111.github.io/tags/technology/</link><pubDate>Fri, 24 Oct 2025 17:00:55 +0300</pubDate><guid>https://kcti111.github.io/tags/technology/</guid><description/></item><item><title>Lifestyle</title><link>https://kcti111.github.io/tags/lifestyle/</link><pubDate>Thu, 25 Sep 2025 15:00:35 +0300</pubDate><guid>https://kcti111.github.io/tags/lifestyle/</guid><description/></item><item><title>Art</title><link>https://kcti111.github.io/tags/art/</link><pubDate>Thu, 28 Aug 2025 15:01:35 +0300</pubDate><guid>https://kcti111.github.io/tags/art/</guid><description/></item><item><title>Culture</title><link>https://kcti111.github.io/tags/culture/</link><pubDate>Thu, 14 Aug 2025 17:00:35 +0300</pubDate><guid>https://kcti111.github.io/tags/culture/</guid><description/></item><item><title>Service</title><link>https://kcti111.github.io/tags/service/</link><pubDate>Fri, 18 Jul 2025 15:01:35 +0300</pubDate><guid>https://kcti111.github.io/tags/service/</guid><description/></item><item><title>Design</title><link>https://kcti111.github.io/tags/design/</link><pubDate>Fri, 13 Jun 2025 17:00:35 +0300</pubDate><guid>https://kcti111.github.io/tags/design/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Explore CT Topics on 문화기술 이슈 매거진</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Explore CT Topics on 문화기술 이슈 매거진</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Mon, 01 Jun 2026 15:00:35 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lifestyle</title>
+      <link>http://localhost:1313/tags/lifestyle/</link>
+      <pubDate>Mon, 01 Jun 2026 15:00:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/lifestyle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:1313/tags/technology/</link>
+      <pubDate>Mon, 01 Jun 2026 15:00:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ai</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Fri, 24 Oct 2025 17:00:55 +0300</pubDate>
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Art</title>
+      <link>http://localhost:1313/tags/art/</link>
+      <pubDate>Thu, 28 Aug 2025 15:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/art/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Culture</title>
+      <link>http://localhost:1313/tags/culture/</link>
+      <pubDate>Thu, 14 Aug 2025 17:00:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/culture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Service</title>
+      <link>http://localhost:1313/tags/service/</link>
+      <pubDate>Fri, 18 Jul 2025 15:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/service/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design</title>
+      <link>http://localhost:1313/tags/design/</link>
+      <pubDate>Fri, 13 Jun 2025 17:00:35 +0300</pubDate>
+      <guid>http://localhost:1313/tags/design/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
