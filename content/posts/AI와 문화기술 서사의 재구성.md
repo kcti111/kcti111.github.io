@@ -5,7 +5,7 @@ date: 2026-06-02 15:00:35 +0300
 authors: [sojin]
 image: 'posts/10-m.jpg'
 image_caption:
-tags: [Technology, Lifestyle]
+tags: [Ai, Culture]
 featured: true
 toc: true
 ---
