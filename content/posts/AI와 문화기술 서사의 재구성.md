@@ -1,7 +1,7 @@
 ---
 title: AI와 문화기술 서사의 재구성
 description: AI 시대에서 이야기를 만들어간다는 것
-date: 2026-06-01 15:00:35 +0300
+date: 2026-06-02 15:00:35 +0300
 authors: [sojin]
 image: 'posts/10-m.jpg'
 image_caption:
