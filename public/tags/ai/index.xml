@@ -6,8 +6,15 @@
     <description>Recent content in Ai on 문화기술 이슈 매거진</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Fri, 24 Oct 2025 17:00:55 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 15:00:35 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI와 문화기술 서사의 재구성</title>
+      <link>http://localhost:1313/posts/ai%EC%99%80-%EB%AC%B8%ED%99%94%EA%B8%B0%EC%88%A0-%EC%84%9C%EC%82%AC%EC%9D%98-%EC%9E%AC%EA%B5%AC%EC%84%B1/</link>
+      <pubDate>Tue, 02 Jun 2026 15:00:35 +0300</pubDate>
+      <guid>http://localhost:1313/posts/ai%EC%99%80-%EB%AC%B8%ED%99%94%EA%B8%B0%EC%88%A0-%EC%84%9C%EC%82%AC%EC%9D%98-%EC%9E%AC%EA%B5%AC%EC%84%B1/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;서론&#34;&gt;서론&lt;/h1&gt;&#xA;&lt;h2 id=&#34;이야기는-왜-다시-기술의-중심이-되는가&#34;&gt;“이야기”는 왜 다시 기술의 중심이 되는가&lt;/h2&gt;&#xA;&lt;p&gt;생성형 AI의 등장은 단순한 기술 혁신을 넘어 인간이 이야기를 생산하고 소비하는 방식을 근본적으로 바꾸고 있다. 과거 디지털 기술이 콘텐츠 유통의 속도와 접근성을 높이는 데 그쳤다면, 오늘날의 AI는 창작 과정 자체에 개입하며 문화산업 구조를 재편하고 있다. 특히 거대언어모델(LLM) 기반 생성형 AI는 방대한 데이터에서 언어 패턴과 서사 구조를 학습해 새로운 텍스트와 이미지를 생성함으로써, 인간 고유의 영역으로 여겨졌던 ‘창작’의 경계를 흔들고 있는데, 이는 웹툰·웹소설 등 콘텐츠 산업의 기획과 제작 단계에서 이미 실제 변화로 나타나고 있다. 이렇듯 이제 사용자는 단순한 소비자가 아니다. 프롬프트로 이야기의 방향과 세계관을 설계하고, 생성된 결과를 수정·선택하는 참여자로 전환된다. 수많은 콘텐츠도 고정된 완성품이 아니라 실시간으로 변형되고 상호작용하는 경험으로 바뀌고 있다. 생성형 AI는 텍스트, 이미지, 대화형 캐릭터, 인터랙티브 스토리텔링 등에서 새로운 경험을 만들어내며, 이야기가 ‘읽는 것’에서 ‘체험하는 것’으로 이동하고 있음을 보여준다.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>AI가 빚어내는 3차원 상상력</title>
       <link>http://localhost:1313/posts/ai%EA%B0%80-%EB%B9%9A%EC%96%B4%EB%82%B4%EB%8A%94-3%EC%B0%A8%EC%9B%90-%EC%83%81%EC%83%81%EB%A0%A5/</link>
