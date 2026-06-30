@@ -49,7 +49,9 @@
 
                 <a href="{{if findRE `^#` .URL}}{{ if not $.IsHome }}{{ site.BaseURL | relLangURL }}{{end}}{{ .URL }}{{ else }}{{ .URL | relLangURL }}{{ end }}"
                   class="nav__link{{ if $active }} active-link{{ end }}"
-                  style="color:#2563eb;font-weight:700;">
+                  style="color:#2563eb;font-weight:700;"
+                  target="_blank"
+                  rel="noopener noreferrer">
                   {{ .Name }}
                 </a>
 
