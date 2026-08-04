@@ -73,8 +73,9 @@ googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
   [[menu.main]]
     name = "🤖뉴스 스크랩(AI)"
     url = "https://kctimag.vercel.app/"
-    target = "_blank"
     weight = 6
+
+  
 
 # Call to action button
 [params.cta_button]
